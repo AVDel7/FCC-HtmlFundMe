@@ -2,7 +2,7 @@
 
 Bare bones HTML / js frontend example for the [Hardhat Fund Me](https://github.com/AVDel7/FCC-HardhatFundMe) project. This corresponds to Lesson 8 in [freeCodeCamp youtube tutorial](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=45177s) on ethereum blockchain development.
 
-> **Attention!** - This project is meant for learning only. Do not use it with an account with real ETH, i.e. on Ethereum mainnet. It is advised you use a development metamask account without Eth on the mainnet's account.
+> **Attention!** - This project is meant for learning only. Do not use it with an account with real ETH, i.e. on Ethereum mainnet. It is advised you use a development metamask wallet without Eth on the mainnet's account.
 
 
 ## Requirements:
